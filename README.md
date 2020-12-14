@@ -1,5 +1,5 @@
 # cancifier
 
-Using machine learning to predict cancer tissue of origin based on gene expression profile.
+Identifing the site of origin of a metastatic cancer via RNA profiling data using machine learning methods.
 
 
